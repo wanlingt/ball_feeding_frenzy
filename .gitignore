@@ -1,5 +1,8 @@
 # https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/
 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
 # Ignore Mac system files
 .DS_store
 .idea
