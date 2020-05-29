@@ -12,3 +12,4 @@ If you hit a larger ball, it's game over
 
 - include a restart button
 - change shapes to images
+- add varying levels of difficulty
