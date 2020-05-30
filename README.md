@@ -3,7 +3,7 @@ Code in Place 2020, Final Project
 Adapted from the video game Feeding Frenzy.
 Video walkthrough: https://youtu.be/csE0nKltpEM
 
-## HOW TO PLAY
+## How to play:
 
 1. Using your mouse, control the dark pink ball outlined in white
 2. Grow by hitting balls that are smaller in size
