@@ -1,6 +1,6 @@
 Code in Place 2020, Final Project
 
-Adapted from the video game Feeding Frenzy
+Adapted from the video game Feeding Frenzy.
 Video walkthrough: https://youtu.be/csE0nKltpEM
 
 ## HOW TO PLAY
