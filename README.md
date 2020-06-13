@@ -1,7 +1,7 @@
 Code in Place 2020, Final Project
 
 Adapted from the video game Feeding Frenzy.
-Video walkthrough: https://youtu.be/csE0nKltpEM
+Video walkthrough: https://compedu.stanford.edu/codeinplace/public/projects/1369.html
 
 ## How to play:
 
